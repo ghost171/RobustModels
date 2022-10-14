@@ -28,4 +28,6 @@ def network_bandwidth(times: list[list[int]], n: int, x: int) -> int:
     else:
         return -1
 
-print(network_bandwidth([[1, 2, 1]], 2, 2))
+
+if __name__ == "__main__":
+    print(network_bandwidth([[1, 2, 1]], 2, 2))

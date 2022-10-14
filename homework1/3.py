@@ -14,4 +14,5 @@ def topK(nums, k):
             if (len(res) == k):
                 return res
 
-print(topK([1], 1))
+if __name__ == "__main__":
+    print(topK([1], 1))
