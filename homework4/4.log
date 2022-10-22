@@ -1,0 +1,3245 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2022.9.10)  22 OCT 2022 22:19
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/ghost17/robust_model/homework4/4.tex
+(/home/ghost17/robust_model/homework4/4.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\c@figure=\count187
+\c@table=\count188
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+ (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+LaTeX Font Info:    Trying to load font information for T2A+lmr on input line 112.
+LaTeX Font Info:    No file T2Almr.fd. on input line 112.
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 112.
+ (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+
+LaTeX Font Warning: Font shape `T2A/lmr/m/n' undefined
+(Font)              using `T2A/cmr/m/n' instead on input line 112.
+
+) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/01/26 3.70 The Babel package
+\babel@savecnt=\count189
+\U@D=\dimen139
+\l@unhyphenated=\language87
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/xebabel.def (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def))
+\bbl@readstream=\read2
+\bbl@dirlevel=\count190
+ (/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language17). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language17). Reported on input line 108.
+) (/usr/share/texlive/texmf-dist/tex/generic/babel-russian/russianb.ldf
+File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
+Language: russian 2020/09/09 1.3k Russian support for the Babel system
+Package babel Info: Making " an active character on input line 124.
+Package babel Info: Default for \cyrdash is provided on input line 163.
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amscd.sty
+Package: amscd 2017/04/14 v2.1 AMS Commutative Diagrams
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen140
+)
+\athelp@=\toks19
+\minaw@=\dimen141
+\bigaw@=\dimen142
+\minCDarrowwidth=\dimen143
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen144
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count191
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count192
+\leftroot@=\count193
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count194
+\DOTSCASE@=\count195
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen145
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count196
+\c@MaxMatrixCols=\count197
+\dotsspace@=\muskip16
+\c@parentequation=\count198
+\dspbrk@lvl=\count199
+\tag@help=\toks20
+\row@=\count266
+\column@=\count267
+\maxfields@=\count268
+\andhelp@=\toks21
+\eqnshift@=\dimen146
+\alignsep@=\dimen147
+\tagshift@=\dimen148
+\tagwidth@=\dimen149
+\totwidth@=\dimen150
+\lineht@=\dimen151
+\@envbody=\toks22
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen152
+\ar@mcellbox=\box52
+\extrarowheight=\dimen153
+\NC@list=\toks24
+\extratabsurround=\skip52
+\backup@length=\skip53
+\ar@cellbox=\box53
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks25
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 107.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+))
+\Gin@req@height=\dimen154
+\Gin@req@width=\dimen155
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip54
+\LTright=\skip55
+\LTpre=\skip56
+\LTpost=\skip57
+\LTchunksize=\count269
+\LTcapwidth=\dimen156
+\LT@head=\box54
+\LT@firsthead=\box55
+\LT@foot=\box56
+\LT@lastfoot=\box57
+\LT@gbox=\box58
+\LT@cols=\count270
+\LT@rows=\count271
+\c@LT@tables=\count272
+\c@LT@chunks=\count273
+\LT@p@ftn=\toks26
+) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen157
+\WF@size=\dimen158
+\c@WF@wrappedlines=\count274
+\WF@box=\box59
+\WF@everypar=\toks27
+Package: wrapfig 2003/01/31  v 3.6
+) (/usr/share/texlive/texmf-dist/tex/latex/pstricks/pstricks.sty
+Package: pstricks 2021/08/23 v0.71 LaTeX wrapper for `PSTricks' (RN,HV)
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 227.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+) (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+ (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+ (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks28
+\XKV@tempa@toks=\toks29
+)
+\XKV@depth=\count275
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))) (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.tex (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex `pst-fp' v0.06, 2020/11/20 (hv)
+\pstFP@xs=\count276
+\pstFP@xia=\count277
+\pstFP@xib=\count278
+\pstFP@xfa=\count279
+\pstFP@xfb=\count280
+\pstFP@rega=\count281
+\pstFP@regb=\count282
+\pstFP@regs=\count283
+\pstFP@times=\count284
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks30
+\pgfutil@tempdima=\dimen159
+\pgfutil@tempdimb=\dimen160
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks31
+\pgfkeys@temptoks=\toks32
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks33
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Loading pgffor.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+\pgf@x=\dimen161
+\pgf@xa=\dimen162
+\pgf@xb=\dimen163
+\pgf@xc=\dimen164
+\pgf@y=\dimen165
+\pgf@ya=\dimen166
+\pgf@yb=\dimen167
+\pgf@yc=\dimen168
+\c@pgf@counta=\count285
+\c@pgf@countb=\count286
+\c@pgf@countc=\count287
+\c@pgf@countd=\count288
+\pgfutil@tempcnta=\count289
+\pgfutil@tempcntb=\count290
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen169
+\pgfmath@count=\count291
+\pgfmath@box=\box60
+\pgfmath@toks=\toks34
+\pgfmath@stack@operand=\toks35
+\pgfmath@stack@operation=\toks36
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count292
+))
+\pgffor@iter=\dimen170
+\pgffor@skip=\dimen171
+\pgffor@stack=\toks37
+\pgffor@toks=\toks38
+)
+\psLoopIndex=\count293
+
+`PSTricks' v3.13  <2022/01/09> (tvz,hv)
+\pst@dima=\dimen172
+\pst@dimb=\dimen173
+\pst@dimc=\dimen174
+\pst@dimd=\dimen175
+\pst@dimg=\dimen176
+\pst@dimh=\dimen177
+\pst@dimm=\dimen178
+\pst@dimn=\dimen179
+\pst@dimo=\dimen180
+\pst@dimp=\dimen181
+\pst@hbox=\box61
+\pst@ibox=\box62
+\pst@boxg=\box63
+\pst@cnta=\count294
+\pst@cntb=\count295
+\pst@cntc=\count296
+\pst@cntd=\count297
+\pst@cntg=\count298
+\pst@cnth=\count299
+\pst@cntm=\count300
+\pst@cntn=\count301
+\pst@cnto=\count302
+\pst@cntp=\count303
+\@zero=\count304
+\pst@toks=\toks39
+--- We are running latex or xelatex ---
+(/usr/share/texlive/texmf-dist/tex/xelatex/xetex-pstricks/pstricks.con (/usr/share/texlive/texmf-dist/tex/generic/pstricks/config/xdvipdfmx.cfg)) (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks-color.tex)
+\psunit=\dimen182
+\psxunit=\dimen183
+\psyunit=\dimen184
+\pst@C@@rType=\count305
+\pslinewidth=\dimen185
+\psk@startLW=\dimen186
+\psk@endLW=\dimen187
+ (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks-arrows.tex
+\pshooklength=\dimen188
+\pshookwidth=\dimen189
+)
+\pst@customdefs=\toks40
+ (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks-dots.tex)
+\pslinearc=\dimen190
+\pst@symbolStep=\dimen191
+\pst@symbolWidth=\dimen192
+\pst@symbolLinewidth=\dimen193
+\everypsbox=\toks41
+\psframesep=\dimen194
+\pslabelsep=\dimen195
+\sh@wgridXunit=\dimen196
+\sh@wgridYunit=\dimen197
+\pst@shift=\dimen198
+\ps@imagectr=\count306
+ (/usr/share/texlive/texmf-dist/tex/xelatex/xetex-pstricks/pstricks.con (/usr/share/texlive/texmf-dist/tex/generic/pstricks/config/xdvipdfmx.cfg
+Using PSTricks configuration for LaTeX+dvipdfmx
+)))
+File: pstricks.tex 2022/01/09 v3.13 `PSTricks' (tvz,hv)
+ (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex `pst-fp' v0.06, 2020/11/20 (hv))
+File: pst-fp.tex 2020/11/20 v0.06 `PST-fp' (hv)
+
+>>> Loading XeTeX special macros
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks-xetex.def)) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+\c@theorem=\count307
+ (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2022-01-12 L3 backend support: XeTeX
+ (|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count308
+\l__color_backend_stack_int=\count309
+\g__color_backend_stack_int=\count310
+\g__graphics_track_int=\count311
+\l__pdf_internal_box=\box64
+\g__pdf_backend_object_int=\count312
+\g__pdf_backend_annotation_int=\count313
+\g__pdf_backend_link_int=\count314
+) (./4.aux)
+\openout1 = `4.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 18.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Info: Redefining \th on input line 18.
+
+
+LaTeX Font Warning: Font shape `T2A/lmr/bx/n' undefined
+(Font)              using `T2A/lmr/m/n' instead on input line 23.
+
+Missing character: There is no М ("41C) in font larm1440!
+Missing character: There is no е ("435) in font larm1440!
+Missing character: There is no т ("442) in font larm1440!
+Missing character: There is no о ("43E) in font larm1440!
+Missing character: There is no д ("434) in font larm1440!
+Missing character: There is no ы ("44B) in font larm1440!
+Missing character: There is no и ("438) in font larm1440!
+Missing character: There is no Р ("420) in font larm1200!
+Missing character: There is no М ("41C) in font larm1200!
+Missing character: There is no С ("421) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no М ("41C) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no й ("439) in font larm1200!
+Missing character: There is no Г ("413) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no й ("439) in font larm1200!
+Missing character: There is no У ("423) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no Ф ("424) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no В ("412) in font larm1200!
+Missing character: There is no М ("41C) in font larm1200!
+Missing character: There is no К ("41A) in font larm1200!
+Missing character: There is no П ("41F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no ш ("448) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no ъ ("44A) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no э ("44D) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no й ("439) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no ю ("44E) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no щ ("449) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no А ("410) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no ъ ("44A) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no ю ("44E) in font larm1200!
+Missing character: There is no щ ("449) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no й ("439) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no щ ("449) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no й ("439) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no А ("410) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no ж ("436) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no ю ("44E) in font larm1200!
+Missing character: There is no щ ("449) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no й ("439) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no й ("439) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no ю ("44E) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ю ("44E) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no г ("433) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no Н ("41D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no г ("433) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no г ("433) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no ф ("444) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no щ ("449) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ш ("448) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no В ("412) in font larm1200!
+Missing character: There is no э ("44D) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no ф ("444) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ш ("448) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no ж ("436) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no ю ("44E) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no й ("439) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no й ("439) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no й ("439) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no й ("439) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no щ ("449) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no Т ("422) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no ж ("436) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no щ ("449) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no э ("44D) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+File: dimension.jpg Graphic file (type bmp)
+<dimension.jpg>
+/home/ghost17/robust_model/homework4/4.tex:34: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.34 ... width = 480, height = 100]{dimension.jpg}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+/home/ghost17/robust_model/homework4/4.tex:34: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.34 ... width = 480, height = 100]{dimension.jpg}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Overfull \hbox (24.75954pt too wide) in paragraph at lines 34--35
+[][] 
+ []
+
+Missing character: There is no Р ("420) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no П ("41F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no Д ("414) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no э ("44D) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no й ("439) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no ж ("436) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no ш ("448) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no Ц ("426) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no ш ("448) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no ж ("436) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ф ("444) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no Д ("414) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no г ("433) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no П ("41F) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+LaTeX Font Info:    Trying to load font information for U+msa on input line 43.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 43.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Missing character: There is no г ("433) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no ъ ("44A) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no Х ("425) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no П ("41F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no э ("44D) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no ж ("436) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no ж ("436) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no й ("439) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no ю ("44E) in font larm1200!
+Missing character: There is no щ ("449) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no й ("439) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no С ("421) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no й ("439) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no Х ("425) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no ж ("436) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no М ("41C) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no ъ ("44A) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no М ("41C) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no й ("439) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no г ("433) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no М ("41C) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no И ("418) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no э ("44D) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no г ("433) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+[1
+
+]
+Missing character: There is no Т ("422) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+
+LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
+(Font)              using `T2A/lmr/m/n' instead on input line 109.
+
+Missing character: There is no Е ("415) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no г ("433) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no г ("433) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no э ("44D) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no ю ("44E) in font larm1200!
+Missing character: There is no щ ("449) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no П ("41F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no э ("44D) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no г ("433) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--116
+
+ []
+
+Missing character: There is no М ("41C) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no г ("433) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no ю ("44E) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+File: regression.png Graphic file (type bmp)
+<regression.png>
+/home/ghost17/robust_model/homework4/4.tex:121: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.121 ...idth = 480, height = 200]{regression.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+/home/ghost17/robust_model/homework4/4.tex:121: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.121 ...idth = 480, height = 200]{regression.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Overfull \hbox (24.75517pt too wide) in paragraph at lines 121--122
+[][] 
+ []
+
+Missing character: There is no Р ("420) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no П ("41F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no й ("439) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no й ("439) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no г ("433) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no О ("41E) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no щ ("449) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no щ ("449) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no ю ("44E) in font larm1200!
+Missing character: There is no г ("433) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no щ ("449) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no г ("433) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no й ("439) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no г ("433) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--129
+
+ []
+
+Missing character: There is no Д ("414) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no ю ("44E) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no К ("41A) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no С ("421) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ю ("44E) in font larm1200!
+File: sz.png Graphic file (type bmp)
+<sz.png>
+/home/ghost17/robust_model/homework4/4.tex:134: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.134 ...=0.75, width = 400, height = 150]{sz.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+/home/ghost17/robust_model/homework4/4.tex:134: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.134 ...=0.75, width = 400, height = 150]{sz.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: krutoi_sklon.png Graphic file (type bmp)
+<krutoi_sklon.png>
+/home/ghost17/robust_model/homework4/4.tex:139: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.139 ...th = 480, height = 200]{krutoi_sklon.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+/home/ghost17/robust_model/homework4/4.tex:139: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.139 ...th = 480, height = 200]{krutoi_sklon.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Overfull \hbox (24.7504pt too wide) in paragraph at lines 139--141
+[][]
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Missing character: There is no З ("417) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no г ("433) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no ш ("448) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no э ("44D) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no ж ("436) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no ш ("448) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no й ("439) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no Т ("422) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no О ("41E) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no ж ("436) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no г ("433) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no г ("433) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no г ("433) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no г ("433) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no й ("439) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no г ("433) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no г ("433) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--156
+
+ []
+
+[2]
+File: singular_value_decomp.png Graphic file (type bmp)
+<singular_value_decomp.png>
+
+/home/ghost17/robust_model/homework4/4.tex:159: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.159 ... height = 200]{singular_value_decomp.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+/home/ghost17/robust_model/homework4/4.tex:159: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.159 ... height = 200]{singular_value_decomp.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Overfull \hbox (24.75507pt too wide) in paragraph at lines 159--160
+[][] 
+ []
+
+Missing character: There is no Р ("420) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no Р ("420) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no ж ("436) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no П ("41F) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no й ("439) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no г ("433) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no Т ("422) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no г ("433) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no й ("439) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no ж ("436) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no й ("439) in font larm1200!
+File: Screenshot from 2022-10-22 22-07-19.png Graphic file (type bmp)
+<Screenshot from 2022-10-22 22-07-19.png>
+/home/ghost17/robust_model/homework4/4.tex:168: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.168 ...{Screenshot from 2022-10-22 22-07-19.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+/home/ghost17/robust_model/homework4/4.tex:168: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.168 ...{Screenshot from 2022-10-22 22-07-19.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Overfull \hbox (24.75134pt too wide) in paragraph at lines 168--170
+[][]
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Missing character: There is no М ("41C) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no ж ("436) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no ю ("44E) in font larm1200!
+Missing character: There is no щ ("449) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no ш ("448) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no г ("433) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no б ("431) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ж ("436) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no л ("43B) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+File: truncated.png Graphic file (type bmp)
+<truncated.png>
+/home/ghost17/robust_model/homework4/4.tex:178: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.178 ...width = 240, height = 100]{truncated.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+/home/ghost17/robust_model/homework4/4.tex:178: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.178 ...width = 240, height = 100]{truncated.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Missing character: There is no С ("421) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+
+ []
+
+[3]
+Missing character: There is no В ("412) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no ч ("447) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no с ("441) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no к ("43A) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no ж ("436) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no я ("44F) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no ь ("44C) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no о ("43E) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no з ("437) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no н ("43D) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no п ("43F) in font larm1200!
+Missing character: There is no е ("435) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no ы ("44B) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no д ("434) in font larm1200!
+Missing character: There is no в ("432) in font larm1200!
+Missing character: There is no у ("443) in font larm1200!
+Missing character: There is no х ("445) in font larm1200!
+Missing character: There is no м ("43C) in font larm1200!
+Missing character: There is no а ("430) in font larm1200!
+Missing character: There is no т ("442) in font larm1200!
+Missing character: There is no р ("440) in font larm1200!
+Missing character: There is no и ("438) in font larm1200!
+Missing character: There is no ц ("446) in font larm1200!
+File: choose.png Graphic file (type bmp)
+<choose.png>
+/home/ghost17/robust_model/homework4/4.tex:201: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.201 ...5, width = 240, height = 100]{choose.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+/home/ghost17/robust_model/homework4/4.tex:201: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.201 ...5, width = 240, height = 100]{choose.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+[4] (./4.aux
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5.
+ (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 11607 strings out of 476191
+ 204111 string characters out of 5812072
+ 518487 words of memory out of 5000000
+ 32166 multiletter control sequences out of 15000+600000
+ 478468 words of font info for 50 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 55i,8n,62p,437b,269s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on 4.xdv (4 pages, 7684 bytes).
